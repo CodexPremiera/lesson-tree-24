@@ -1,0 +1,3 @@
+Z:/L14X14W07/Lesson02-Tree_24/cmake-build-debug/CMakeFiles/Lesson02_Tree_24.dir
+Z:/L14X14W07/Lesson02-Tree_24/cmake-build-debug/CMakeFiles/edit_cache.dir
+Z:/L14X14W07/Lesson02-Tree_24/cmake-build-debug/CMakeFiles/rebuild_cache.dir
